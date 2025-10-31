@@ -11,10 +11,7 @@ This might also work on M3U playlist files - I haven't tested it yet. Also untes
 3. put playlists in `.../Music` on phone
 4. put music in `.../Music/music` on phone (TODO fix)
 
-## TODO
-
-- [ ] change it so it looks for playlists in the same folder as the music (remove trailing `music/` in each song filepath).
-
 ## Changelog
 
 - v1.0.0 - 2025-10-30: Working. Music has to be in `/Music/music/`. Playlists have to be in `/Music/`.
+- v1.0.0-alt - 2025-10-30: Working. Music and playlists both have to be in `/Music/`. After testing, I find it much harder to get to playlists, so I recommend v1.0.0 but will leave this as an option.
