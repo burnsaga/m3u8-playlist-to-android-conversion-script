@@ -1,4 +1,4 @@
-# M3U8 Playlist Conversion Script for Windows Android Compatibility
+# M3U8 Playlist Conversion Script for Windows->Android Compatibility
 
 This is a batch script that converts iTunes (on Windows) M3U8 playlists for (VLC player app on) Android. This script will handle special characters and convert the file paths correctly. This makes it so you can for example, just select the Playlist file within the VLC for Android app, and the music playlist will play. No internet connection or streaming service subscription required!
 
