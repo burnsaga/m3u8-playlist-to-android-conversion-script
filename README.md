@@ -6,10 +6,11 @@ This might also work on M3U playlist files - I haven't tested it yet. Also untes
 
 ## How to Use
 
-1. Export playlist from iTunes or wherever (in iTunes: select the playlist then go to File > Library > Export Playlist > save as `.m3u8`).
-2. Just drag and drop your M3U8 file onto the batch script provided, or run: `convert_playlist.bat "my_playlist.m3u8"` (making sure the Batch file and M3U8 file are in the same directory).
-3. Put converted playlist files in `.../Music` on phone.
-4. Put music in `.../Music/music` on phone.
+1. Edit Line 6 of the script (`MUSIC_BASE_PATH=O:\music"`) to point to your Windows/iTunes music library.
+2. Export playlist from iTunes or wherever (in iTunes: select the playlist then go to File > Library > Export Playlist > save as `.m3u8`).
+3. Just drag and drop your M3U8 file onto the batch script provided, or run: `convert_playlist.bat "my_playlist.m3u8"` (making sure the Batch file and M3U8 file are in the same directory).
+4. Put converted playlist files in `.../Music` on phone.
+5. Put music in `.../Music/music` on phone.
 
 ## Changelog
 
